@@ -1,0 +1,437 @@
+.header{
+	background-image:url(pic/banner.jpg);
+	background-repeat: no-repeat;
+	height:570px;
+	text-align: center;
+}
+.navbar-brand{
+	font-size: 17px;
+	font-weight: bold;
+	color:white !important;
+	padding-left:2%;
+}
+#menu{
+	color:white;
+}
+.menu1{
+	padding-left:10px;
+	font-size:15px;
+	font-weight:600;
+}
+.navbar-nav{
+	width:20% !important;
+	margin-left:auto;
+	margin-right: 0 !important;
+}
+.nav-link{
+	color:white !important;
+}
+.header1{
+	margin-top:7%;
+	color:white;
+}
+#diamond{
+	border-radius:100%;
+	border:2px solid white;
+	padding: 1% 1%;
+}
+.etiam{
+	font-size:28px;
+	font-weight:bold;
+	padding-top:7px;
+}
+.magna{
+	font-size:20px;
+	opacity:90%;
+}
+.btn {
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight:600;
+  background: #4cbbb9;
+  padding: 13px 35px 13px 35px;
+  text-decoration: none;
+  margin-top:10px;
+}
+.btn:hover {
+  background: #4cbbb9;
+  text-decoration: none;
+}
+
+
+.middle{
+	background-color:#dbdbdb;
+}
+#card1{
+	height:250px;
+}
+.card-img{
+	height:250px;
+	width:100%;
+}
+.card-title{
+	opacity: 80%;
+	font-weight:600;
+	font-size:17px;
+}
+.card-text{
+	font-size:10px;
+	opacity: 60%;
+	color:black;
+	line-height:180%;
+}
+.btn2{
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #4cbbb9;
+  font-size: 12px;
+  font-weight:bold;
+  background: #ffffff;
+  padding: 8px 40px 8px 40px;
+  border: solid #4cbbb9 2px;
+  text-decoration: none;
+}
+.btn2:hover {
+  background: #4cbbb9;
+  text-decoration: none;
+  color:white;
+}
+.align_from_right{
+	flex-direction: row-reverse;
+}
+
+.middle1{
+	padding:5% 15%;
+	text-align:center;
+	color:black;
+}
+.aliquam{
+	font-size: 23px;
+	font-weight:600;
+}
+.aliquam1{
+	font-size:15px;
+	opacity:70%;
+	padding:0 20%;
+	margin-bottom:70px;
+}
+#picrow{
+	margin-bottom:60px;
+}
+#picture{
+	padding:0;
+	width:272px;
+	height:170px;
+}
+#pic-col{
+	padding:0;
+}
+.btn3{
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #4cbbb9;
+  font-size: 13px;
+  background: #ffffff;
+  padding: 15px 40px 15px 40px;
+  border: solid #4cbbb9 3px;
+  font-weight:bold;
+  text-decoration: none;
+}
+.btn3:hover {
+  background:#4cbbb9;
+  color:white;
+  text-decoration: none;
+}
+.last{
+	background-image:url(pic/pic11.jpg);
+	background-repeat: no-repeat;
+	height:80px;
+}
+.last1{
+	background-image:url(pic/pic11.jpg);
+	background-repeat: no-repeat;
+	height:400px;
+	text-align:center;
+}
+.middle2{
+	padding:5% 7%;
+	color:white;
+}
+.ft{
+	font-size:30px;
+	font-weight:bold;
+
+}
+.ft2{
+	font-size:20px;
+	padding:0 25%;
+	margin-bottom:70px;
+}
+.btn4{
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight:bold;
+  background:transparent;
+  padding: 15px 40px 15px 40px;
+  border: solid #ffffff 3px;
+  text-decoration: none;
+}
+.btn4:hover {
+  background:transparent;
+  text-decoration: none;
+   color: #ffffff;
+}
+.getintouch{
+	padding:8% 7%;
+	text-align:center;
+	color:white;
+	background-color:#222831;
+}
+.ne{
+	margin-bottom:10px;
+}
+.name{
+	margin-right:10px;
+	 border-radius:6px;
+	 background-color:#393e46;
+	 color:white;
+	 border:none;
+	 width:400px;
+	 height:40px;
+	 font-size: 13px;
+	 padding-left:20px;
+}
+.email{
+	 border-radius:6px;
+	 background-color:#393e46;
+	 color:white;
+	 border:none;
+	 width:400px;
+	 height:40px;
+	 font-size: 13px;
+	 padding-left:20px;
+}
+.area{
+	 border-radius: 6px;
+	 background-color:#393e46;
+	 color:white;
+	 border:none;
+	 width:820px;
+	 height:150px;
+	 font-size: 13px;
+	  padding-left:20px;
+	  padding-top:10px;
+}
+.send{
+	padding: 8px 40px 8px 40px;
+	border-radius:28px;
+	border-style:solid;
+	background-color:#4cbbb9;
+	color: white;
+	font-weight: bold;
+	font-size:13px;
+	border-color:#4cbbb9; 
+	margin-right:8px;
+}
+.reset{
+	padding: 7px 40px 7px 40px;
+	border-radius:28px;
+	border-style:solid;
+	background-color:transparent;
+	color: white;
+	font-weight: bold;
+	font-size:13px;
+	border-color:#fff; 
+}
+#footer{
+	margin-top:90px;
+}
+.hr-line{
+	border-bottom:1px solid grey;
+	width:80%;
+	opacity:40%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+}
+.foot-icon{
+	padding:0 15px;
+	font-size:25px;
+}
+.copyright{
+	margin-top:30px;
+	font-size:13px;
+}
+@media screen and (max-width: 780px){
+.header1{
+	margin-top:15%;
+}
+#card1{
+	height:600px;
+}
+.card-img{
+	height:350px;
+	width:100%;
+}
+.middle1{
+	padding:10% 15%;
+}
+.aliquam{
+	font-size: 20px;
+}
+.aliquam1{
+	margin-bottom:40px;
+		padding:0 5%;
+}
+.last{
+	height:60px;
+}
+.last1{
+	height:400px;
+}
+.middle2{
+	padding:10% 7%;
+}
+.ft{
+	font-size:23px;
+}
+.ft2{
+	padding:0 5%;
+	margin-bottom:50px;
+}
+.getintouch{
+	padding:8% 5%;
+}
+.name{
+	 width:230px;
+
+}
+.email{
+	 width:230px;
+}
+.area{
+	 width:470px;
+	 margin-bottom:4%;
+}
+.send{
+	padding: 6px 30px 6px 30px;
+}
+.reset{
+	padding: 6px 30px 6px 30px;
+}
+#footer{
+	margin-top:50px;
+}
+.foot-icon{
+	padding:0 15px;
+}
+}
+@media screen and (max-width: 360px){
+.header{
+	height:450px;
+}
+.header1{
+	margin-top:10%;
+}
+.etiam{
+	font-size:25px;
+}
+.magna{
+	font-size:17px;
+	padding:0 7%;
+}
+.btn {
+  font-size: 15px;
+  padding: 13px 90px 13px 90px;
+  margin-top:20px;
+}
+.middle{
+	padding:0 5%;
+}
+#card1{
+	height:500px;
+}
+.card-img{
+	height:200px;
+	width:100%;
+}
+.btn2{
+  font-size: 12px;
+  padding: 10px 100px 10px 100px;
+}
+.middle1{
+	padding:10% 0;
+	margin-bottom:50px;
+}
+.aliquam1{
+	font-size:14px;
+	margin-bottom:30px;
+}
+#picture{
+	width:100%;
+	height:200px;
+}
+.btn3{
+  font-size: 13px;
+  padding: 12px 80px 12px 80px;
+}
+.last{
+	height:60px;
+}
+.middle2{
+	padding:15% 0;
+}
+.ft{
+	font-size:25px;
+}
+.ft2{
+	font-size:15px;
+	padding:0 7%;
+	margin-bottom:50px;
+}
+.btn4{
+  padding: 15px 80px 15px 80px;
+}
+.getintouch{
+	padding:10% 7%;
+}
+.name{
+	 width:100%;
+	 margin-bottom: 10px;
+}
+.email{
+	 width:100%;
+}
+.area{
+	width: 100%;
+}
+.send{
+	width:100%;
+	margin-bottom:15px;
+}
+.reset{
+	width: 100%;
+}
+.hr-line{
+	width: 100%;
+}
+.foot-icon{
+	padding:0 15px;
+	font-size:25px;
+}
+.copyright{
+	font-size:17px;
+}
+	}
